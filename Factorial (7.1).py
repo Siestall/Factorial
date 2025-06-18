@@ -1,0 +1,1 @@
+print(eval(str([k for k in range(1,int(input('Enter integer: '))+1)]).replace(',','*')))
